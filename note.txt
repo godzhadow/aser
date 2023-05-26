@@ -1,0 +1,57 @@
+Notulensi Website ASER 2023
+16 November 2022
+
+1
+Tabel status setelah login
+     Max size file: 3gb
+     Fullpaper & Powerpoint (.pdf only)
+     Keterangan berikut di tuliskan dgn jelas, spy user paham
+
+2
+Status abstrak & fullpaper
+     Ada 5 status: submited, under review, revision, accepted, rejected
+     Tahapan status muncul semua, status saat ini diberi warna berbeda
+
+3
+Sebagai label data paper, diberikan nomor kode penerimaan
+    Disepakati: 4THASER001
+    Di urutkan berdasarkan urutan submit paper - abstrak
+    Langsung replace name file dengan ini saat _validasi accepted
+
+4
+Status berganti, tidak otomatis send email, namun muncul di bagian message saat login ke website
+
+5
+Page login, diberikan narasi -> “Sign In | Dont have account yet? Please register here”
+
+6
+Register page (new account)
+     Corespondence Author : (enter your name here as lead Author)
+     E-mail Corespondence Author : (enter your email here as lead Author
+     Password :
+     (Register now)
+
+7
+Main page after account registered:
+     Fill this data for your paper’s credentials
+     Corespondence Author’s Intitution / University : (enter your Institution / University here as lead Author)
+     Corespondence Author’s Country : (pick)
+     Corespondence Author’s Address : (Street name, City) (enter your address here as lead Author)
+
+Add your team’s credentials
+     Author 2 : (enter name here for second Author)
+     Institution : (enter institution here for second Author)
+     Country : (pick)
+     Address : (Street name, City) (enter address here for second Author)
+
+(+ add team)
+     Author 2 : (enter name here for third Author)
+     Institution : (enter institution here for third Author)
+     Country : (pick)
+     Address : (Street name, City) (enter address here for third Author)
+
+8
+When submit Abstract
+     Paper Title : (automated all capital)
+     Paper Keyword : (first-keyword ; second-keyword ; third-keyword)
+     (Upload File) (.pdf only)
